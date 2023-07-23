@@ -6,6 +6,7 @@
 "添加到暂存区：git add
 "提交到本地库：git commit -m "版本信息" hello.txt
 "查看日志信息：git reflog/git log
+"版本穿梭：git reset --hard 版本号
 
 hello acacia! hello citation!
 hello acacia! hello citation!
