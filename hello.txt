@@ -8,11 +8,8 @@
 "查看日志信息：git reflog/git log
 "版本穿梭：git reset --hard 版本号
 
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
-hello acacia! hello citation!
+"查看分支：git branch -v
+"创建分支：git branch 分支名
+"切换分支：git checkout 分支名
+"将指定分支合并到当前分支：git merge 分支名
+
