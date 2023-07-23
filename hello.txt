@@ -30,3 +30,8 @@
 "该库从其他远程库叉数据过来:fork
 "该库向其他远程库发出拉取请求：Pull request
 "其他远程库审查完成后合并:merge
+
+
+"GitHub操作
+"查看别名：git remote -v
+"创建别名：git remote add 别名 连接
