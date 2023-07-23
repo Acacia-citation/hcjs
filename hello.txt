@@ -4,6 +4,8 @@
 "查看内容：cat hello.txt
 "查看最后一行：tail -n 1 hello.txt
 "添加到暂存区：git add
+"提交到本地库：git commit -m "版本信息" hello.txt
+"查看日志信息：git relog/git log
 
 hello acacia! hello citation!
 hello acacia! hello citation!
