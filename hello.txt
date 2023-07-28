@@ -36,5 +36,6 @@
 "查看别名：git remote -v
 "创建别名：git remote add 别名 连接
 "向远程库推送,以分支为单位：git push 别名/连接 分支名
+"从远程库拉取,git pull hcjs master
 
 
