@@ -31,6 +31,7 @@
 "该库向其他远程库发出拉取请求：Pull request
 "其他远程库审查完成后合并:merge
 
+"证书：git config --global http.sslCAInfo 证书地址
 
 "GitHub操作
 "查看别名：git remote -v
